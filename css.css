@@ -1,0 +1,21 @@
+
+#menu ul{
+ list-style-type:none;
+ }
+#menu ul a{
+    text-decoration:none;
+    background:rgb(14, 171, 219);
+    width:150px;
+    float:left;
+    color:#fff;
+    line-height:30px;
+    text-align:center;
+    border-left: 1px solid #ccc;
+}
+#noidung img{
+    padding-left: 250px;
+}
+#video iframe{
+    padding-left:250px;
+}
+
